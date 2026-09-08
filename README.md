@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/1137-n-th-tribonacci-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
