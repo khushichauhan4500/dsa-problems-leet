@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
