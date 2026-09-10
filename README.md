@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/khushichauhan4500/dsa-problems-leet/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
